@@ -9,47 +9,7 @@
   "categories": [
     {
       "id": 1,
-      "title": "Part 1",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_100/apyar_001.jpg",
-      "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 2,
-      "title": "Part 2",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 3,
-      "title": "Part 3",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 4,
-      "title": "Part 4",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 5,
-      "title": "Part 5",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 6,
-      "title": "Part 6",
+      "title": "စုစည်းမှု 1",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
       "total": 2,
@@ -57,50 +17,42 @@
     },
     {
       "id": 1,
-      "title": "Part 1",
+      "title": "စုစည်းမှု 2",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
-      "total": 2,
+      "total": 4,
       "isOpen": true
     },
     {
-      "id": 2,
-      "title": "Part 2",
+      "id": 1,
+      "title": "စုစည်းမှု 3",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
-      "total": 2,
+      "total": 6,
       "isOpen": true
     },
     {
-      "id": 3,
-      "title": "Part 3",
+      "id": 1,
+      "title": "စုစည်းမှု 4",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
-      "total": 2,
+      "total": 8,
       "isOpen": true
     },
     {
-      "id": 4,
-      "title": "Part 4",
+      "id": 1,
+      "title": "စုစည်းမှု 5",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
-      "total": 2,
+      "total": 10,
       "isOpen": true
     },
     {
-      "id": 5,
-      "title": "Part 5",
+      "id": 1,
+      "title": "စုစည်းမှု 6",
       "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
       "link": "",
-      "total": 2,
-      "isOpen": true
-    },
-    {
-      "id": 6,
-      "title": "Part 6",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
+      "total": 12,
       "isOpen": true
     }
   ]

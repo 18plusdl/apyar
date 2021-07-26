@@ -8,53 +8,36 @@
   "link": "",
   "categories": [
     {
-      "id": 1,
+      "id": null,
       "title": "စုစည်းမှု 1",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 2,
+      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_100/apyar_001.jpg",
+      "link": "https://raw.githubusercontent.com/18plusdl/apyar/master/api/v1/posts/demo.json",
+      "total": null,
       "isOpen": true
     },
     {
-      "id": 1,
-      "title": "စုစည်းမှု 2",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 4,
+      "id": null,
+      "title": "စုစည်းမှု 1",
+      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_100/apyar_001.jpg",
+      "link": "https://raw.githubusercontent.com/18plusdl/apyar/master/api/v1/posts/demo.json",
+      "total": null,
       "isOpen": true
     },
     {
-      "id": 1,
-      "title": "စုစည်းမှု 3",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 6,
+      "id": null,
+      "title": "စုစည်းမှု 1",
+      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_100/apyar_001.jpg",
+      "link": "https://raw.githubusercontent.com/18plusdl/apyar/master/api/v1/posts/demo.json",
+      "total": null,
       "isOpen": true
     },
     {
-      "id": 1,
-      "title": "စုစည်းမှု 4",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 8,
-      "isOpen": true
-    },
-    {
-      "id": 1,
-      "title": "စုစည်းမှု 5",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 10,
-      "isOpen": true
-    },
-    {
-      "id": 1,
-      "title": "စုစည်းမှု 6",
-      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_400/apyar_395.jpg",
-      "link": "",
-      "total": 12,
+      "id": null,
+      "title": "စုစည်းမှု 1",
+      "imgLink": "https://raw.githubusercontent.com/18plusdl/apyar/master/apyar_100/apyar_001.jpg",
+      "link": "https://raw.githubusercontent.com/18plusdl/apyar/master/api/v1/posts/demo.json",
+      "total": null,
       "isOpen": true
     }
   ]
 }
-

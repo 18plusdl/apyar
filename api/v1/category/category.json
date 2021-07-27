@@ -1,9 +1,9 @@
 {
-  "isInformed": true,
+  "isInformed": false,
   "informedMessage": "informedMessage",
-  "isUpdated": false,
+  "isUpdated": true,
   "updatedMessage": "need updatedMessage",
-  "isForcedUpdate": true,
+  "isForcedUpdate": false,
   "forcedUpdateMessage": "forcedUpdateMessage",
   "link": "",
   "categories": [

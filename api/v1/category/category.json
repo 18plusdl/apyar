@@ -1,10 +1,10 @@
 {
-  "isInformed": false,
-  "informedMessage": "",
-  "isUpdated": true,
-  "updatedMessage": "",
-  "isForcedUpdate": false,
-  "forcedUpdateMessage": "",
+  "isInformed": true,
+  "informedMessage": "informedMessage",
+  "isUpdated": false,
+  "updatedMessage": "need updatedMessage",
+  "isForcedUpdate": true,
+  "forcedUpdateMessage": "forcedUpdateMessage",
   "link": "",
   "categories": [
     {

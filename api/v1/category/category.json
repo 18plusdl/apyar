@@ -13,7 +13,8 @@
       "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_001.jpg",
       "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
       "total": null,
-      "isOpen": false
+      "isOpen": false,
+		  "isOpenMessage": "Try Later"
     },
     {
       "id": null,
@@ -21,7 +22,8 @@
       "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_002.jpg",
       "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
       "total": null,
-      "isOpen": true
+      "isOpen": true,
+	  	"isOpenMessage": ""
     },
     {
       "id": null,
@@ -29,7 +31,8 @@
       "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_003.jpg",
       "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
       "total": null,
-      "isOpen": true
+      "isOpen": true,
+		  "isOpenMessage": ""
     },
     {
       "id": null,
@@ -37,7 +40,8 @@
       "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_004.jpg",
       "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
       "total": null,
-      "isOpen": true
+      "isOpen": true,
+		  "isOpenMessage": ""
     }
   ]
 }

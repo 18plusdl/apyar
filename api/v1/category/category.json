@@ -1,47 +1,47 @@
 {
   "isInformed": false,
-  "informedMessage": "informedMessage",
+  "informedMessage": "",
   "isUpdated": true,
-  "updatedMessage": "need updatedMessage",
+  "updatedMessage": "",
   "isForcedUpdate": false,
-  "forcedUpdateMessage": "forcedUpdateMessage",
+  "forcedUpdateMessage": "",
   "link": "",
   "categories": [
     {
-      "id": null,
-      "title": "စုစည်းမှု 1",
-      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_001.jpg",
+      "id": "1",
+      "title": "စုစည်းမှု ၁",
+      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_400/apyar_301.jpg",
       "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
+      "total": "23",
+      "isOpen": true,
+      "isOpenMessage": ""
+    },
+    {
+      "id": "2",
+      "title": "စုစည်းမှု ၂",
+      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_400/apyar_302.jpg",
+      "link": "",
       "total": null,
       "isOpen": false,
-		  "isOpenMessage": "Try Later"
+      "isOpenMessage": ""
     },
     {
-      "id": null,
-      "title": "စုစည်းမှု 1",
-      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_002.jpg",
-      "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
+      "id": "3",
+      "title": "စုစည်းမှု ၃",
+      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_400/apyar_303.jpg",
+      "link": "",
       "total": null,
-      "isOpen": true,
-	  	"isOpenMessage": ""
+      "isOpen": false,
+      "isOpenMessage": ""
     },
     {
-      "id": null,
-      "title": "စုစည်းမှု 1",
-      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_003.jpg",
-      "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
+      "id": "4",
+      "title": "စုစည်းမှု ၄",
+      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_400/apyar_304.jpg",
+      "link": "",
       "total": null,
-      "isOpen": true,
-		  "isOpenMessage": ""
-    },
-    {
-      "id": null,
-      "title": "စုစည်းမှု 1",
-      "imgLink": "https://raw.githubusercontent.com/yuhtar/apyar/master/apyar_100/apyar_004.jpg",
-      "link": "https://raw.githubusercontent.com/yuhtar/apyar/master/api/v1/posts/001.json",
-      "total": null,
-      "isOpen": true,
-		  "isOpenMessage": ""
+      "isOpen": false,
+      "isOpenMessage": ""
     }
   ]
 }
